@@ -6,5 +6,12 @@
 
 ### LinkedList
 
-Pacote Linked List.  
-Noções de Lista Encadeada (linked list).
+Package LinkedList.  
+Linguagem: JAVA.  
+Noções sobre Lista Encadeada (linked list).
+
+https://user-images.githubusercontent.com/61328423/140438290-c1a47a3e-acb5-4091-94ed-f1e0243a79e7.mov
+
+
+
+
